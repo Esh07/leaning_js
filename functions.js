@@ -2,8 +2,9 @@
 // by "function" keyword follow by the name of function
 
 /*
-* "function"
-*
+* "function" keyword define function
+*  "square" is name of the function
+*  "number" is function parameter
 */
 function square(number) {
     return number * number;
